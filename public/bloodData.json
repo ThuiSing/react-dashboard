@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "type": "Requested",
+    "OPlus": 2,
+    "OMinus": 4,
+    "AMinus": 2,
+    "APlus": 1,
+    "BPlus": 3,
+    "BMinus": 2,
+    "ABMinus": 4,
+    "ABPlus": 2
+  },
+  {
+    "id": 2,
+    "type": "Received",
+    "OPlus": 5,
+    "OMinus": 6,
+    "AMinus": 10,
+    "APlus": 2,
+    "BPlus": 3,
+    "BMinus": 6,
+    "ABMinus": 2,
+    "ABPlus": 1
+  },
+  {
+    "id": 3,
+    "type": "In Stock",
+    "OPlus": 10,
+    "OMinus": 12,
+    "AMinus": 13,
+    "APlus": 18,
+    "BPlus": 13,
+    "BMinus": 21,
+    "ABMinus": 19,
+    "ABPlus": 12
+  }
+]
